@@ -1,13 +1,13 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.example.com/"
-languageCode = "en-AU"
-title = "My Awesome Title"
+baseURL = "https://chacajliu.github.io"
+languageCode = "en-us"
+title = "tt"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "chacajliu"
+  description = "I am a cool gal"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
