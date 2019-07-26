@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kross | Hugo Portfolio Template</title>
-    <link>https://kross.netlify.com/</link>
-    <description>Recent content on Kross | Hugo Portfolio Template</description>
+    <title>Blog on Kross | Hugo Portfolio Template</title>
+    <link>https://kross.netlify.com/blog/</link>
+    <description>Recent content in Blog on Kross | Hugo Portfolio Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="https://kross.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kross.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
