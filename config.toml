@@ -1,6 +1,6 @@
-baseURL = "https://kross.netlify.com"
+baseURL = "https://chacajliu.github.io"
 languageCode = "en-us"
-title = "Kross | Hugo Portfolio Template"
+title = "Yu Chien Liu | Producer"
 theme = "kross-hugo-portfolio-template"
 summaryLength = "10"
 
@@ -35,19 +35,14 @@ summaryLength = "10"
   weight = 2
   
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 3
-  
-  [[menu.main]]
   name = "Portfolio"
   URL = "portfolio"
-  weight = 4
+  weight = 3
   
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 4
 
 
 [params]
@@ -55,7 +50,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Yu Chien Liu"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
@@ -64,10 +59,8 @@ googleAnalitycsID = "Your ID"
   enable = true
 
   [params.contact]
-  enable = true
+  enable = false
   formAction = "#" #contact form works with formspree.io
 
   [params.footer]
-  email = "steve.fruits@email.com"
-  phone = "+880 2544 658 256"
-  address = "125/A, CA Commercial Area, California, USA"
+  email = "chacajliu@gmail.com"
