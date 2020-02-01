@@ -1,71 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chacajliu.github.io/about/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://chacajliu.github.io/projects/marketing/</loc>
   </url>
   
   <url>
-    <loc>https://chacajliu.github.io/blog/amazon-increase-income.1/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://chacajliu.github.io/projects/event/</loc>
   </url>
   
   <url>
-    <loc>https://chacajliu.github.io/blog/amazon-increase-income.2/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://chacajliu.github.io/projects/operation/</loc>
   </url>
   
   <url>
-    <loc>https://chacajliu.github.io/blog/amazon-increase-income.3/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://chacajliu.github.io/projects/curation/</loc>
   </url>
   
   <url>
-    <loc>https://chacajliu.github.io/blog/amazon-increase-income.4/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://chacajliu.github.io/projects/graphic-design/</loc>
   </url>
   
   <url>
-    <loc>https://chacajliu.github.io/blog/amazon-increase-income.5/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/blog/amazon-increase-income/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://chacajliu.github.io/projects/</loc>
   </url>
   
   <url>
     <loc>https://chacajliu.github.io/blog/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chacajliu.github.io/contact/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://chacajliu.github.io/blog/booth-award/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chacajliu.github.io/portfolio/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://chacajliu.github.io/blog/intimations/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://chacajliu.github.io/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/tags/ipsum/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/blog/golden-boys/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/blog/pen-world-voices/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/blog/prelude/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/tags/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/blog/taiwanese-waves/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/blog/ten-years-prelude/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/tags/words/</loc>
+    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chacajliu.github.io/blog/pride-voices-from-taiwan/</loc>
+    <lastmod>2020-02-01T00:50:09-05:00</lastmod>
   </url>
   
 </urlset>

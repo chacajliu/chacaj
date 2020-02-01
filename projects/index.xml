@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Introduction</title>
+    <link>https://chacajliu.github.io/projects/</link>
+    <description>Recent content in Services on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://chacajliu.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marketing and Outreach</title>
+      <link>https://chacajliu.github.io/projects/marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chacajliu.github.io/projects/marketing/</guid>
+      <description>Strategize and execute campaign across social media channels
+  Manage paid content and evaluate outcomes (Facebook Ads)
+  Design E-Newsletter (Mailchimp, Constant Contact)
+  Design, update, and maintain Wordpress website with html, CSS, Javascript, and Wordpress plugins
+  Manage the relationships of interns, volunteers, and scholars through online platform and team events. Successfully grew a network of volunteers over 200% (300+ people) to support additional audience engagement during events</description>
+    </item>
+    
+    <item>
+      <title>Event Production</title>
+      <link>https://chacajliu.github.io/projects/event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chacajliu.github.io/projects/event/</guid>
+      <description>Project manage entire event process from initial planning, logistics, and calendaring, to execution on the ground, and post-event reporting
+  Coordinated over 300+ public events with up to 50,000 attendance
+  Manage pre-event logistics such as timelines, travel and accommodation, vendor agreements, invitations and promotion, staffing, and merch production
+  Handle all day-of event execution such as setup, staff training, stage management, and breakdown.
+  Type of events: theatrical production, conference, festival, music concert, panel, fundraising gala, screening, award ceremony</description>
+    </item>
+    
+    <item>
+      <title>Finance and Operation Management</title>
+      <link>https://chacajliu.github.io/projects/operation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chacajliu.github.io/projects/operation/</guid>
+      <description>  Oversee operating budgets, track expenses, and administer payroll, invoices, and gifts (Excel, Argos, QuickBooks)
+  Manage hiring, onboarding, and semi-annual performance evaluation.
+  Design staff training materials and activities.
+  Experienced in international working/visiting visa regulation, payment, and cultural understanding.
+  Oversee the submission of grant proposals, author reports, as well as execute end-of-year solicitation
+  </description>
+    </item>
+    
+    <item>
+      <title>Content Development</title>
+      <link>https://chacajliu.github.io/projects/curation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chacajliu.github.io/projects/curation/</guid>
+      <description>  Research and identify potential participating guests, panelists, or artists
+  Communicate with curation, audience development, and editorial teams about relevant stories for themes, special projects, and timely events.
+  Support the communications team with engaging copy and data to achieve optimal media outcome
+  </description>
+    </item>
+    
+    <item>
+      <title>Graphic Design</title>
+      <link>https://chacajliu.github.io/projects/graphic-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chacajliu.github.io/projects/graphic-design/</guid>
+      <description>  Create key art images and logos (Photoshop, Illustrator)
+  Design and typeset digital and print publication, including books, playbills, postcards, posters (InDesign)
+  Published work including play translations, poetry book, photo book, exhibition catalogue
+  </description>
+    </item>
+    
+  </channel>
+</rss>
