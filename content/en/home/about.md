@@ -9,3 +9,5 @@ I'm the founder of [apiobuild](http://apiobuild.com/), a tech platform empower p
 Whether you are fundraising, starting an online business, running for office, the most difficult step is the first step. Our platform simplifies complex workflows to help small businesses, nonprofits, politicians and many more to build from scratch.
 
 Prior to [apiobuild](http://apiobuild.com/), I've spent 8+ years in event production in various nonprofits with a focus on LGBTQ+, immigrants, women's right.
+
+[Read more](/blog/bio/)
