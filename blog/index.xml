@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publishing on Introduction</title>
+    <title>Publishing on Yu Chien Liu</title>
     <link>https://chacajliu.github.io/blog/</link>
-    <description>Recent content in Publishing on Introduction</description>
+    <description>Recent content in Publishing on Yu Chien Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chacajliu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -25,6 +25,19 @@ Learn More</description>
       
       <guid>https://chacajliu.github.io/blog/ten-years-prelude/</guid>
       <description>For over 10 years the annual PRELUDE Festival, held at The Martin E. Segal Theatre Center, has been a force in New York theatre and performance – a free, three-day festival that celebrates artistic and academic exchange in the heart of the city. This book represents ten years (2003-2013) of unlimited creativity, discourse and exchange within an academic setting. The artists of Prelude – pioneers in their field – demonstrate that theatre and performance continue to matter – and that New York City is still at the forefront of the form.</description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>https://chacajliu.github.io/blog/bio/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://chacajliu.github.io/blog/bio/</guid>
+      <description>Work Experience  apiobuild, Founder, April 2020 - Present
+New York, New York Independent Cultural Event Producer, August 2013 - Present
+New York, New York Food Bank For New York City, Event and Engagement Coordinator, February 2020 - April 2020
+New York, New York Martin E. Segal Theatre Center, July 2018 - February 2019
+New York, New York  Associate Managing Director/Producer, July 2018 - February 2019 Producer, July 2016 - January 2019 Next Generation Fellow, July 2015 - June 2016 Management Assistant, July 2014 - June 2015   Visual Studies Workshop, Gallery Assistant, September 2013 - December 2013</description>
     </item>
     
   </channel>
