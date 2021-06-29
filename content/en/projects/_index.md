@@ -1,4 +1,4 @@
 ---
-title: "Past Events"
+title: "Events"
 weight: 10
 ---
