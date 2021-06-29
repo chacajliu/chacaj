@@ -1,101 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Introduction</title>
+    <title>Publishing on Introduction</title>
     <link>https://chacajliu.github.io/blog/</link>
-    <description>Recent content in Blog on Introduction</description>
+    <description>Recent content in Publishing on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:55:44 -0500</lastBuildDate>
-    
-	<atom:link href="https://chacajliu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Edwin Booth Award - Young Jean Lee</title>
-      <link>https://chacajliu.github.io/blog/booth-award/</link>
-      <pubDate>Sat, 01 Feb 2020 00:55:44 -0500</pubDate>
-      
-      <guid>https://chacajliu.github.io/blog/booth-award/</guid>
-      <description>Associate Producer | 2018 | Martin E. Segal Theatre Center
-https://thesegalcenter.org/event/booth-award-young-jean-lee/
-The Doctoral Theatre Students’ Association presents the 2018 Edwin Booth Award to New York writer, director, and filmmaker Young Jean Lee. The Edwin Booth Award is given annually by the Doctoral Theatre Students’ Association to honor a person, organization, or company for their outstanding contribution to the NYC theatre community, and to promote integration of professional and academic theatre.</description>
-    </item>
-    
-    <item>
-      <title>Intimations by Caroline Urvater</title>
-      <link>https://chacajliu.github.io/blog/intimations/</link>
-      <pubDate>Sat, 01 Feb 2020 00:55:44 -0500</pubDate>
-      
-      <guid>https://chacajliu.github.io/blog/intimations/</guid>
-      <description>Designer, editor, project manager, publisher | 2017 | Caroline Urvater
-https://www.amazon.com/Intimations-Caroline-Urvater/dp/0692033173
-A poetry book to look in the life of Caroline Urvater, a lifelong academic who has always learned most while she was teaching. When she is so full of feelings that they have to come out somehow, she writes poems. When words fail her she draws and paints. She loves nature but needs to live in the city.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://chacajliu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New York City’s Golden Boys</title>
       <link>https://chacajliu.github.io/blog/golden-boys/</link>
-      <pubDate>Sat, 01 Feb 2020 00:55:44 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://chacajliu.github.io/blog/golden-boys/</guid>
-      <description>Designer, project manager | 2017 | Yogi Berra Museum &amp;amp; Learning Center
-https://yogiberramuseum.org/product/gbcatalogue/
-Catalogue of Yogi Berra Museum’s permanent exhibition New York City’s Golden Boys: 76 Baseball Portraits, 1946-60 by Andy Jurinko. This catalogue features all 76 portraits on display along with player biographies and stats.</description>
-    </item>
-    
-    <item>
-      <title>PEN World Voices Festival</title>
-      <link>https://chacajliu.github.io/blog/pen-world-voices/</link>
-      <pubDate>Sat, 01 Feb 2020 00:55:44 -0500</pubDate>
-      
-      <guid>https://chacajliu.github.io/blog/pen-world-voices/</guid>
-      <description>Producer | 2015 - 2018 | Martin E. Segal Theatre Center &amp;amp; PEN America
-https://thesegalcenter.org/event/penwv2018/
-As part of the PEN World Voices Festival of International Literature by PEN America, International Play Festival showcases play readings by ten of the world’s most respected dramatists. With each writer hailing from a different world region as classified by the United Nations, the International Play Festival generates a conversation on art, politics, dreams, war, and philosophy, meant to give American audiences a rich awareness of the greater global dialogue.</description>
-    </item>
-    
-    <item>
-      <title>PRELUDE Festival</title>
-      <link>https://chacajliu.github.io/blog/prelude/</link>
-      <pubDate>Sat, 01 Feb 2020 00:55:44 -0500</pubDate>
-      
-      <guid>https://chacajliu.github.io/blog/prelude/</guid>
-      <description>Production and Design Team | 2014 - 2018 | Martin E. Segal Theatre Center
-https://www.Preludenyc.org
-PRELUDE is a festival dedicated to artists at the forefront of contemporary New York City theatre, dance, interdisciplinary and mediatized performance. PRELUDE offers an array of short performances, readings, and screenings as well as new commissions and panel discussions with artists, scholars and performers.</description>
-    </item>
-    
-    <item>
-      <title>Taiwanese Waves at SummerStage</title>
-      <link>https://chacajliu.github.io/blog/taiwanese-waves/</link>
-      <pubDate>Sat, 01 Feb 2020 00:55:44 -0500</pubDate>
-      
-      <guid>https://chacajliu.github.io/blog/taiwanese-waves/</guid>
-      <description>Volunteer Coordinator | 2017 - 2019 | SummerStage at Central Park
-http://taiwanesewaves.com/
-Taiwanese Waves produce music waves and bring inspiring talents from Taiwan to the world. The featured event takes place at Central Park as part of City Park Foundation’s Summerstage season, along with other 100 free and benefit performances from 200 artists in Central Park and 17 neighborhood parks across New York City. .</description>
+      <description>Catalogue of Yogi Berra Museum’s permanent exhibition New York City’s Golden Boys: 76 Baseball Portraits, 1946-60 by Andy Jurinko. This catalogue features all 76 portraits on display along with player biographies and stats.
+Designer, project manager | 2017 | Yogi Berra Museum &amp;amp; Learning Center
+Learn More</description>
     </item>
     
     <item>
       <title>Ten Years PRELUDE</title>
       <link>https://chacajliu.github.io/blog/ten-years-prelude/</link>
-      <pubDate>Sat, 01 Feb 2020 00:55:44 -0500</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://chacajliu.github.io/blog/ten-years-prelude/</guid>
-      <description>Designer, editor, project manager | 2015 | Segal Theatre Center
-http://www.tcg.org/Default.aspx?TabID=251&amp;amp;productId=6110895
-For over 10 years the annual PRELUDE Festival, held at The Martin E. Segal Theatre Center, has been a force in New York theatre and performance – a free, three-day festival that celebrates artistic and academic exchange in the heart of the city. This book represents ten years (2003-2013) of unlimited creativity, discourse and exchange within an academic setting. The artists of Prelude – pioneers in their field – demonstrate that theatre and performance continue to matter – and that New York City is still at the forefront of the form.</description>
-    </item>
-    
-    <item>
-      <title>Pride Voices From Taiwan</title>
-      <link>https://chacajliu.github.io/blog/pride-voices-from-taiwan/</link>
-      <pubDate>Sat, 01 Feb 2020 00:50:09 -0500</pubDate>
-      
-      <guid>https://chacajliu.github.io/blog/pride-voices-from-taiwan/</guid>
-      <description>Co-curator, Producer | 2018 - 2019 | Taipei Cultural Center &amp;amp; Martin E. Segal Theatre Center
-This annual reading series introduce both emerging and established playwrights who have reinvigorated the Taiwanese theatre-scape and given voice to LGBTQ movement to American audience.Blending new media, real-life event, and various performative techniques, their creative processes and cultural productions shed light on the struggles and achievements of the LGBTQ community in Taiwan and Asia today.</description>
+      <description>For over 10 years the annual PRELUDE Festival, held at The Martin E. Segal Theatre Center, has been a force in New York theatre and performance – a free, three-day festival that celebrates artistic and academic exchange in the heart of the city. This book represents ten years (2003-2013) of unlimited creativity, discourse and exchange within an academic setting. The artists of Prelude – pioneers in their field – demonstrate that theatre and performance continue to matter – and that New York City is still at the forefront of the form.</description>
     </item>
     
   </channel>

@@ -1,94 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://chacajliu.github.io/projects/marketing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/projects/event/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/projects/operation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/projects/curation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/projects/graphic-design/</loc>
-  </url>
-  
-  <url>
+    <loc>https://chacajliu.github.io/projects/tropical-angels/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/segal-talks/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/after-marriage-equality/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/pride-voices/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/prelude/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/film-festival/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/taiwanese-waves/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/pen/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/bad-chinese/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/broken-record/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/gutting/</loc>
+  </url><url>
     <loc>https://chacajliu.github.io/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://chacajliu.github.io/projects/upcoming-train/</loc>
+  </url><url>
     <loc>https://chacajliu.github.io/blog/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/blog/booth-award/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/blog/intimations/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chacajliu.github.io/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/tags/ipsum/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chacajliu.github.io/blog/golden-boys/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/blog/pen-world-voices/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/blog/prelude/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/tags/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/blog/taiwanese-waves/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://chacajliu.github.io/blog/ten-years-prelude/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://chacajliu.github.io/series/</loc>
+  </url><url>
+    <loc>https://chacajliu.github.io/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/tags/words/</loc>
-    <lastmod>2020-02-01T00:55:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chacajliu.github.io/blog/pride-voices-from-taiwan/</loc>
-    <lastmod>2020-02-01T00:50:09-05:00</lastmod>
-  </url>
-  
 </urlset>
