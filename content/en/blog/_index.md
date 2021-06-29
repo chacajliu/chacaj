@@ -1,6 +1,6 @@
 ---
-title: "Blog"
+title: "Publishing"
 weight: 20
 ---
 
-Here is a election of my previous projects in events and design.
+A selection of my past publishing.
