@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Past Events"
 weight: 10
 ---
 
