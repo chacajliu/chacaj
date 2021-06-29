@@ -1,7 +1,6 @@
 ---
-title: "Hi, I’m Yu Chien"
+title: "Hi, I’m Yu Chien Liu"
 headless: true
 ---
 
-I bring memorable and engaging experience to people through events!
-
+I build understanding between people and spread inspiring ideas.
